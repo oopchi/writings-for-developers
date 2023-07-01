@@ -4,7 +4,7 @@ This project is created and maintained by [Calvin Alfredo](https://blog.oopchi.m
 
 This is a part of the [full stack roadmap](https://roadmap.sh/full-stack).
 
-The project idea is to implement HTML and CSS to create a static webpages.
+The project idea is to implement HTML and CSS to create a static webpages (not responsive).
 
 # References used in this project
 
